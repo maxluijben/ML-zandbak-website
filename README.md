@@ -1,3 +1,3 @@
 # ML zandbak
- My own sandbox Wordpress website,
+ My own sandbox Wordpress template,
  built from scratch
