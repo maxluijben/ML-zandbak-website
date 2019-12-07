@@ -1,2 +1,3 @@
-# zandbak-website
- Test omgeving
+# ML zandbak
+ My own Wordpress website,
+ builded from scratch
