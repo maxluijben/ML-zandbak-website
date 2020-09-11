@@ -26,7 +26,7 @@ define( 'DB_NAME', 'deb64800n2_wp' );
 define( 'DB_USER', 'deb64800n2_wp' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', '' );
+define( 'DB_PASSWORD', 'root' );
 
 /** MySQL hostname */
 define( 'DB_HOST', 'localhost' );
