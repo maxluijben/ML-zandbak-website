@@ -20,10 +20,10 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'ml_zandbak_website' );
+define( 'DB_NAME', 'deb64800n2_wp' );
 
 /** MySQL database username */
-define( 'DB_USER', 'root' );
+define( 'DB_USER', 'deb64800n2_wp' );
 
 /** MySQL database password */
 define( 'DB_PASSWORD', '' );
